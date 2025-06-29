@@ -17,3 +17,6 @@ Vuenode 开源社区是专注于 Vue 与 Node.js 全栈技术的开发者联盟�
 打造 Vue + Node 生态工具链
 
 核心使命：降低全栈开发门槛，赋能技术普惠。
+
+[![GitHub Org](https://img.shields.io/badge/官方组织-vuenode--official-8A2BE2?logo=github)](https://github.com/vuenode-official)
+[![Website](https://img.shields.io/badge/官网-vuenode.com-42B883)](https://vuenode.com)
