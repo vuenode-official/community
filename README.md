@@ -1,6 +1,7 @@
-# community
-We're building Vue &amp; Node fullstack tools at **studio.vuenode.com** (Coming Soon!)
-🚀 **Vuenode Community Launching Soon!**  
+# 社区
+我们正在 studio.vuenode.com 构建Vue和Node全栈工具（即将推出） 
+
+🚀 **Vuenode 社区即将推出！**
 - 官网：`www.vuenode.com` (建设中)  
 - 首款产品：**VeloStudio** - Vue3 + Egg 敏捷后台系统
 
